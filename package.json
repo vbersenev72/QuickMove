@@ -2,8 +2,18 @@
   "name": "qm",
   "version": "1.0.0",
   "scripts": {},
-  "keywords": [],
   "author": "Bersenev Vladislav",
   "license": "ISC",
+  "keywords": [
+    "chess",
+    "typescript",
+    "node js",
+    "engine",
+    "chess-engine",
+    "lichess",
+    "chess.com",
+    "library",
+    "node.js"
+  ],
   "description": "Chess Engine"
 }

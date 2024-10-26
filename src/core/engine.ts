@@ -5,6 +5,7 @@ export class Engine {
         this.position = position;
         this.board = this.positionToBoard(position);
     }
+    
     private position: Position
     private board: Board
 
